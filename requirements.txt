@@ -1,0 +1,7 @@
+# Required Python packages
+
+# Include your dependencies here.
+# Example:
+# numpy
+# pandas
+# scikit-learn
